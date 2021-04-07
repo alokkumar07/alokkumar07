@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alokkumar07
-- 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning alogrithm
+- 👀 
 -
 
 <!---
