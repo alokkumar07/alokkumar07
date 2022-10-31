@@ -7,9 +7,10 @@ Web Developer
 * 🌍  I'm based in India
 * ✉️  You can contact me at [aloknith07@gmail.com](mailto:aloknith07@gmail.com)
 
-<a href="https://www.github.com/alokkumar07" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/alokkumar07" target="_blank" rel="noreferrer">
 Download My
-<a href="https://drive.google.com/drive/folders/1m86h_LxcSpZRnfdSjfbIR22phjGp7tSk" class="btn-hire" style="text-align: center; color:rgb(94, 255, 0);"><b>Resume</b></a>
+<a href="https://drive.google.com/drive/folders/1m86h_LxcSpZRnfdSjfbIR22phjGp7tSk" class="btn-hire" style="text-align: center; color:rgb(94, 255, 0);">
+<b>Resume</b></a>
 
 ### Skills
 
