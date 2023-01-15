@@ -3,7 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer
 -------------
+I'm Alok kumar, a Software Engineer. I have completed my bachelor's degree in CSE. I am a tech enthusiast with a passion for learning and sharing my knowledge with others.
 
+I'm working as a software professional.
 * 🌍  I'm based in India
 * ✉️  You can contact me at [aloknith07@gmail.com](mailto:aloknith07@gmail.com)
 
