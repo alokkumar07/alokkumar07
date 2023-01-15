@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alok kumar
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alok 
 ==================================================================================================================================
 
-Web Developer
+Welcome to my Profile! 😎
 -------------
 I'm Alok kumar, a Software Engineer. I have completed my bachelor's degree in CSE. I am a tech enthusiast with a passion for learning and sharing my knowledge with others.
 
